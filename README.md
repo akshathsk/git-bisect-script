@@ -1,12 +1,24 @@
+# About 
 This repo is used to maintain git-bisect scripts
 
-Git Bisect - This command uses a binary search algorithm to find which commit in your project’s history introduced a bug
+# Git Bisect 
+This command uses a binary search algorithm to find which commit in your project’s history introduced a bug
 
-More Details can be found in the presentation - https://docs.google.com/presentation/d/1m5asEw506nfqthuTsQfF5_3BBLvtm2edN3dnFLMqtlY/edit?usp=sharing
+# More Details 
 
-Recording - https://mediaspace.illinois.edu/media/t/1_7npuryw2/269676082
+### Slides 
+https://docs.google.com/presentation/d/1m5asEw506nfqthuTsQfF5_3BBLvtm2edN3dnFLMqtlY/edit?usp=sharing
 
-Steps to run git bisect -
+### Recording 
+https://mediaspace.illinois.edu/media/t/1_7npuryw2/269676082
+
+### Docs
+https://git-scm.com/docs/git-bisect
+
+
+# Steps to run git bisect -
+
+The below commands are for an example project https://github.com/akshathsk/git-bisect-tutorial
 
 ```
 
